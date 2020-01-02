@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'P_KFDING-MB1'
+pool: 'macOS'
 
 steps:
 - script: echo Hello, world!
