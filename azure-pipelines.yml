@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: 'P_KFDING-MB1'
+pool: 'P_KFDING-MB1'
 
 steps:
 - script: echo Hello, world!
