@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: macOS,macOS2
+pool: macOS
 
 steps:
 - script: echo Hello, world!
